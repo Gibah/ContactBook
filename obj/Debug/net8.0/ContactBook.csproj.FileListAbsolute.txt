@@ -1,0 +1,14 @@
+C:\projects\ContactBook\bin\Debug\net8.0\ContactBook.exe
+C:\projects\ContactBook\bin\Debug\net8.0\ContactBook.deps.json
+C:\projects\ContactBook\bin\Debug\net8.0\ContactBook.runtimeconfig.json
+C:\projects\ContactBook\bin\Debug\net8.0\ContactBook.dll
+C:\projects\ContactBook\bin\Debug\net8.0\ContactBook.pdb
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfoInputs.cache
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfo.cs
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.dll
+C:\projects\ContactBook\obj\Debug\net8.0\refint\ContactBook.dll
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.pdb
+C:\projects\ContactBook\obj\Debug\net8.0\ContactBook.genruntimeconfig.cache
+C:\projects\ContactBook\obj\Debug\net8.0\ref\ContactBook.dll
